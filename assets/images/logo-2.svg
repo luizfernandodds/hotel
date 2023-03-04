@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="36" viewBox="0 0 101 36">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 48.624px;
+        text-anchor: middle;
+        font-family: "Brush Script MT";
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="Hotel" class="cls-1" transform="matrix(1.126, 0, 0, 1.126, 50.059, 35.316)"><tspan x="0">Hotel</tspan></text>
+</svg>
